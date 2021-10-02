@@ -28,8 +28,8 @@ endef
 # Projects will be started in this order
 define SUBPROJECT_REPOS
 
-https://github.com/reactioncommerce/reaction.git,reaction,v4.0.0 \
-https://github.com/reactioncommerce/reaction-admin.git,reaction-admin,v4.0.0-beta.5 \
+https://github.com/IndieCorner/reaction.git,reaction,v4.0.0 \
+https://github.com/IndieCorner/reaction-admin.git,reaction-admin,v4.0.0-beta.5 \
 https://github.com/IndieCorner/store-front.git,storefront,v5.0.3
 
 endef
